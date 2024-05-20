@@ -1,0 +1,7 @@
+numpy
+tqdm
+six
+timm ==0.5.4
+lmdb==1.3.0
+torch>=1.7.1
+torchvision
